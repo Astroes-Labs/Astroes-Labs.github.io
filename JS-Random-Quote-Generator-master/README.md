@@ -1,9 +1,7 @@
 # random-quote-generator
-### Treehouse Techdegree Project #1 - Random Quote Generator
+### Astroes Labs Project #1 - Random Quote Generator
 
 In this project, you'll create an app that displays random famous quotes each time a button is clicked. You can display a quote from a famous athlete, politician, or historical figure:
-
-"The only thing we have to fear is fear itself." — Franklin Delano Roosevelt.
 
 You'll need to use your knowledge of basic JavaScript syntax, including variables, loops and object literals, to complete this project.
 
@@ -26,16 +24,3 @@ This project is a fun and effective way for you to practice fundamental JavaScri
 - [x] Comments are included in the code.
 
 
-# View Project
-[Live Demo]( https://richardjamesward.github.io/JS-Random-Quote-Generator/) of this project for peer review.
-
-
-# Appraiser Comments
-Awesome work, Richard! Your project looks great and after seeing so many of these, I appreciate you changing the styling up.
-
-Nice job ensuring that your function returns the entire quote object and then adding in those extra features! I added a hint in the individual rubric if you want to try creating a non-repeating randomizer.
-
-You're ready to move on to the next project and get further into JavaScript. Have fun!
-
-Thanks for being a Techdegree student.
-"# Astroes-Labs.github.io" 
